@@ -1,4 +1,4 @@
-# proj_web
+# vue_projet
 
 ## Project setup
 ```
